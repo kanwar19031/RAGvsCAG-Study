@@ -1,0 +1,7 @@
+Final Cache Statistics:
+Total questions: 100
+Cache hits: 27 (27.00%)
+Cache misses: 73 (73.00%)
+Average Semantic Similarity: 0.40367
+Average Cache time: 21.81s
+Average Generate time: 21.81s

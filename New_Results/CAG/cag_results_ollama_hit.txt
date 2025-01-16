@@ -1,0 +1,570 @@
+Configuration:
+Model: llama3.2
+Max Knowledge: 27
+Max Questions: 27
+Use Prompt Only: False
+Random Seed: None
+Ensuring model llama3.2 is pulled and ready...
+Model ready!
+
+Processing batch 1/9
+
+Processing question 1/27:
+Q: Which magazine was started first Arthur's Magazine or First for Women?
+Cache HIT - Using cached response
+A: Arthur's Magazine (1844-1846) was started before First for Women (1989).
+GT: Arthur's Magazine
+
+Results for question 1:
+Cache Status: HIT
+Semantic Similarity: 0.70584
+Cache time: 0.01s
+
+Cumulative metrics after 1 questions:
+Average Similarity: 0.70584
+Average Cache time: 0.01s
+Average Generate time: 0.00s
+Cache hits: 1/1 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 2/27:
+Q: The Oberoi family is part of a hotel company that has a head office in what city?
+Cache HIT - Using cached response
+A: The Oberoi family's hotel company, The Oberoi Group, has its head office in Delhi.
+GT: Delhi
+
+Results for question 2:
+Cache Status: HIT
+Semantic Similarity: 0.36291
+Cache time: 0.00s
+
+Cumulative metrics after 2 questions:
+Average Similarity: 0.53437
+Average Cache time: 0.01s
+Average Generate time: 0.00s
+Cache hits: 2/2 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 3/27:
+Q: Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+Cache HIT - Using cached response
+A: Matt Groening named the character Milhouse after his own friend, Milford "Milhouse" Van Houten.
+GT: President Richard Nixon
+
+Results for question 3:
+Cache Status: HIT
+Semantic Similarity: 0.15894
+Cache time: 0.00s
+
+Cumulative metrics after 3 questions:
+Average Similarity: 0.40923
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 3/3 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 1 Summary:
+Total processed: 3/27
+================================================================================
+
+Processing batch 2/9
+
+Processing question 4/27:
+Q:  What nationality was James Henry Miller's wife?
+Cache HIT - Using cached response
+A: The question does not specify which James Henry Miller, but it mentions that Ewan MacColl, also known as James Henry Miller, was an English folk singer and songwriter. However, another James Henry Miller is mentioned in the context of Australian football, who was born in 1919.
+
+Based on this information, I can provide a concise answer for both cases:
+
+1. For Ewan MacColl (English): His wife, Peggy Seeger, is American.
+2. For Jim Miller (Australian): The nationality of his wife is not specified in the given context.
+GT: American
+
+Results for question 4:
+Cache Status: HIT
+Semantic Similarity: 0.17699
+Cache time: 0.00s
+
+Cumulative metrics after 4 questions:
+Average Similarity: 0.35117
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 4/4 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 5/27:
+Q: Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+Cache HIT - Using cached response
+A: Cadmium chloride is slightly soluble in water.
+GT: alcohol
+
+Results for question 5:
+Cache Status: HIT
+Semantic Similarity: 0.11680
+Cache time: 0.00s
+
+Cumulative metrics after 5 questions:
+Average Similarity: 0.30430
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 5/5 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 6/27:
+Q: Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+Cache HIT - Using cached response
+A: The question does not mention any information about Jonathan Stark winning Grand Slam titles. However, according to the provided context, Larisa Neiland won 2 singles titles and 65 doubles titles, while Henri Leconte is mentioned as having won 5 Grand Slam titles (although no specific type of title is specified).
+GT: Jonathan Stark
+
+Results for question 6:
+Cache Status: HIT
+Semantic Similarity: 0.39669
+Cache time: 0.00s
+
+Cumulative metrics after 6 questions:
+Average Similarity: 0.31969
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 6/6 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 2 Summary:
+Total processed: 6/27
+================================================================================
+
+Processing batch 3/9
+
+Processing question 7/27:
+Q: Which genus of moth in the world's seventh-largest country contains only one species?
+Cache HIT - Using cached response
+A: Based on the provided context, the genus of moth that contains only one species in India (the world's seventh-largest country) is Eutrapela, with its single species being the curve-toothed geometer moth or purplish-brown looper.
+GT: Crambidae
+
+Results for question 7:
+Cache Status: HIT
+Semantic Similarity: 0.39349
+Cache time: 0.00s
+
+Cumulative metrics after 7 questions:
+Average Similarity: 0.33024
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 7/7 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 8/27:
+Q: Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.        
+Cache HIT - Using cached response
+A: Brock Lesnar is not mentioned in the provided text, but based on general knowledge, I can tell you that:
+
+The person who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring is likely to be one of the following:
+
+* Anderson Silva (former UFC Middleweight Champion)
+* Fedor Emelianenko (former Pride Heavyweight Champion)
+
+However, without more information, it's difficult to pinpoint who exactly.
+GT: Badr Hari
+
+Results for question 8:
+Cache Status: HIT
+Semantic Similarity: 0.00533
+Cache time: 0.00s
+
+Cumulative metrics after 8 questions:
+Average Similarity: 0.28962
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 8/8 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 9/27:
+Q: The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+Cache HIT - Using cached response
+A: 2006.
+GT: 2006
+
+Results for question 9:
+Cache Status: HIT
+Semantic Similarity: 0.94680
+Cache time: 0.00s
+
+Cumulative metrics after 9 questions:
+Average Similarity: 0.36264
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 9/9 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 3 Summary:
+Total processed: 9/27
+================================================================================
+
+Processing batch 4/9
+
+Processing question 10/27:
+Q: What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+Cache HIT - Using cached response
+A: The question does not mention the length of the track, but rather the location of the event (Mount Panorama Circuit). However, I can tell you that Mount Panorama Circuit is approximately 4.8 km long.
+GT: 6.213 km long
+
+Results for question 10:
+Cache Status: HIT
+Semantic Similarity: 0.47031
+Cache time: 0.00s
+
+Cumulative metrics after 10 questions:
+Average Similarity: 0.37341
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 10/10 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 11/27:
+Q: Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+Cache HIT - Using cached response
+A: The question is incomplete as it does not specify which hip hop record executive's appearance is being referred to in "Fast Cars, Danger, Fire and Knives". However, according to the text, El-P (the head of Definitive Jux label) makes a guest appearance on this album.
+GT: Jaime Meline
+
+Results for question 11:
+Cache Status: HIT
+Semantic Similarity: 0.22383
+Cache time: 0.00s
+
+Cumulative metrics after 11 questions:
+Average Similarity: 0.35981
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 11/11 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 12/27:
+Q: Gunmen from Laredo starred which narrator of "Frontier"?
+Cache HIT - Using cached response
+A: Walter Coy was the narrator of "Frontier".
+GT: Walter Darwin Coy
+
+Results for question 12:
+Cache Status: HIT
+Semantic Similarity: 0.53081
+Cache time: 0.00s
+
+Cumulative metrics after 12 questions:
+Average Similarity: 0.37406
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 12/12 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 4 Summary:
+Total processed: 12/27
+================================================================================
+
+Processing batch 5/9
+
+Processing question 13/27:
+Q: Where did the form of music played by Die Rhöner Säuwäntzt originate?
+Cache HIT - Using cached response
+A: The form of music played by Die Rhöner Säuwäntzt originated from Skiffle-Blues, specifically with lyrics based on Rhön Mountains dialect and other Hessian dialects varieties in Germany.
+GT: United States
+
+Results for question 13:
+Cache Status: HIT
+Semantic Similarity: 0.01504
+Cache time: 0.00s
+
+Cumulative metrics after 13 questions:
+Average Similarity: 0.34644
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 13/13 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 14/27:
+Q: In which American football game was Malcolm Smith named Most Valuable player?
+Cache HIT - Using cached response
+A: There is no mention of Malcolm Smith in the provided text. However, I can tell you that Richard Smith (rugby union) and Kevin Durant are mentioned, but not Malcolm Smith.
+GT: Super Bowl XLVIII
+
+Results for question 14:
+Cache Status: HIT
+Semantic Similarity: 0.13656
+Cache time: 0.00s
+
+Cumulative metrics after 14 questions:
+Average Similarity: 0.33145
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 14/14 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 15/27:
+Q: What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+Cache HIT - Using cached response
+A: U.S. Route 60.
+GT: US 60
+
+Results for question 15:
+Cache Status: HIT
+Semantic Similarity: 0.56832
+Cache time: 0.00s
+
+Cumulative metrics after 15 questions:
+Average Similarity: 0.34724
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 15/15 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 5 Summary:
+Total processed: 15/27
+================================================================================
+
+Processing batch 6/9
+
+Processing question 16/27:
+Q: The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+Cache HIT - Using cached response
+A: Annette Bening was the four-time Academy Award nominee who received a star on the Hollywood Walk of Fame for her contributions to the motion pictures industry in 2003.
+GT: 2006
+
+Results for question 16:
+Cache Status: HIT
+Semantic Similarity: 0.05905
+Cache time: 0.00s
+
+Cumulative metrics after 16 questions:
+Average Similarity: 0.32923
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 16/16 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 17/27:
+Q: What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical?
+Cache HIT - Using cached response
+A: There is no information provided about the specific band that wrote "Hurt Locker The Musical". However, I can tell you that the question seems to be unrelated to the previous text about American heavy metal bands.
+
+If you're looking for information about the musical "Hurt Locker: The Musical", it's a stage adaptation of the 2008 film "The Hurt Locker" and its cast is not specified in the provided context.
+GT: Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.
+
+Results for question 17:
+Cache Status: HIT
+Semantic Similarity: 0.24814
+Cache time: 0.00s
+
+Cumulative metrics after 17 questions:
+Average Similarity: 0.32446
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 17/17 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 18/27:
+Q: Human Error" is the season finale of the third season of a tv show that aired on what network?
+Cache HIT - Using cached response
+A: The TV show that aired on the Fox network, specifically "House M.D." (not explicitly mentioned in the provided text), had an episode titled "Human Error" as its season finale. However, according to the provided text, the correct answer is not directly stated, but it can be inferred based on the context of other episodes and networks mentioned.
+GT: Fox
+
+Results for question 18:
+Cache Status: HIT
+Semantic Similarity: 0.24662
+Cache time: 0.00s
+
+Cumulative metrics after 18 questions:
+Average Similarity: 0.32014
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 18/18 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 6 Summary:
+Total processed: 18/27
+================================================================================
+
+Processing batch 7/9
+
+Processing question 19/27:
+Q: Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+Cache HIT - Using cached response
+A: 2017.
+GT: 2017
+
+Results for question 19:
+Cache Status: HIT
+Semantic Similarity: 0.95254
+Cache time: 0.00s
+
+Cumulative metrics after 19 questions:
+Average Similarity: 0.35342
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 19/19 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 20/27:
+Q: American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+Cache HIT - Using cached response
+A: The United States.
+GT: Nevada
+
+Results for question 20:
+Cache Status: HIT
+Semantic Similarity: 0.44320
+Cache time: 0.00s
+
+Cumulative metrics after 20 questions:
+Average Similarity: 0.35791
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 20/20 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 21/27:
+Q: Which state does the drug stores, of which the CEO is Warren Bryant, are located?
+Cache HIT - Using cached response
+A: Based on the provided context, Longs Drugs Store Corporation was acquired by CVS/Caremark, and Warren Bryant was its CEO prior to the acquisition. However, there is no mention of the state where the drug stores are located. The context only mentions that he was hired by Longs Drugs from California.
+GT: Hawaii
+
+Results for question 21:
+Cache Status: HIT
+Semantic Similarity: 0.10358
+Cache time: 0.00s
+
+Cumulative metrics after 21 questions:
+Average Similarity: 0.34580
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 21/21 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 7 Summary:
+Total processed: 21/27
+================================================================================
+
+Processing batch 8/9
+
+Processing question 22/27:
+Q: Which  American politician did Donahue replaced
+Cache HIT - Using cached response
+A: According to the provided context, Sue Donahue replaced Kelli Ward as a member of the Arizona State Senate representing the fifth legislative district in 2016.
+GT: Kelli Ward
+
+Results for question 22:
+Cache Status: HIT
+Semantic Similarity: 0.57642
+Cache time: 0.00s
+
+Cumulative metrics after 22 questions:
+Average Similarity: 0.35628
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 22/22 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 23/27:
+Q: Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?  
+Cache HIT - Using cached response
+A: The Wolfhounds were founded first, as they are mentioned in the text as being one of the bands that preceded Hole, with their founding date not specified but implied to be earlier than 1989 when Love formed Hole.
+GT: The Wolfhounds
+
+Results for question 23:
+Cache Status: HIT
+Semantic Similarity: 0.55750
+Cache time: 0.00s
+
+Cumulative metrics after 23 questions:
+Average Similarity: 0.36503
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 23/23 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 24/27:
+Q: How old is the female main protagonist of Catching Fire?
+Cache HIT - Using cached response
+A: The question does not specify the age of the female main protagonist in Catching Fire. However, according to the provided context, Katniss Everdeen, the female main protagonist, was 16 years old when she participated in the 74th Annual Hunger Games and returned home safely with Peeta Mellark.
+GT: 16-year-old
+
+Results for question 24:
+Cache Status: HIT
+Semantic Similarity: 0.31994
+Cache time: 0.00s
+
+Cumulative metrics after 24 questions:
+Average Similarity: 0.36315
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 24/24 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 8 Summary:
+Total processed: 24/27
+================================================================================
+
+Processing batch 9/9
+
+Processing question 25/27:
+Q: Chang Ucchin was born in korea during a time that ended with the conclusion of what?
+Cache HIT - Using cached response
+A: World War II.
+GT: World War II
+
+Results for question 25:
+Cache Status: HIT
+Semantic Similarity: 0.96054
+Cache time: 0.00s
+
+Cumulative metrics after 25 questions:
+Average Similarity: 0.38705
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 25/25 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 26/27:
+Q: Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?        
+Cache HIT - Using cached response
+A: Unfortunately, there is no information provided about the specific film or its director that features scenes filmed at the Quality Cafe in Los Angeles. The text only mentions that the cafe was featured in several films and TV shows, but it does not specify which one is being referred to.
+GT: Todd Phillips
+
+Results for question 26:
+Cache Status: HIT
+Semantic Similarity: 0.02377
+Cache time: 0.00s
+
+Cumulative metrics after 26 questions:
+Average Similarity: 0.37308
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 26/26 (100.00%)
+--------------------------------------------------------------------------------
+
+Processing question 27/27:
+Q: New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?
+Cache HIT - Using cached response
+A: Eartha Kitt.
+GT: Carol Lawrence
+
+Results for question 27:
+Cache Status: HIT
+Semantic Similarity: 0.13374
+Cache time: 0.00s
+
+Cumulative metrics after 27 questions:
+Average Similarity: 0.36421
+Average Cache time: 0.00s
+Average Generate time: 0.00s
+Cache hits: 27/27 (100.00%)
+--------------------------------------------------------------------------------
+
+Batch 9 Summary:
+Total processed: 27/27
+================================================================================
+
+Final Cache Statistics:
+Total questions: 27
+Cache hits: 27 (100.00%)
+Cache misses: 0 (0.00%)
+Average Semantic Similarity: 0.36421
+Average Cache time: 0.00s
+Average Generate time: 0.00s

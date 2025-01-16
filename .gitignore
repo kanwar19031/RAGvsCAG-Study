@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+data_cache/*.pkl
+datasets/hotpot_qa/
+datasets/squad/
+!requirements.txt
+
+# Ignore contents of data_cache
+data_cache/*
+!data_cache/.gitkeep
+
+# Ignore contents of datasets
+datasets/*
+!datasets/.gitkeep
+!datasets/hotpotqa/
+!datasets/squad/
+
+# Ignore contents inside hotpotqa and squad folders
+datasets/hotpotqa/*
+!datasets/hotpotqa/.gitkeep
+datasets/squad/*
+!datasets/squad/.gitkeep
+
+# Keep the sample file
+!datasets/rag_sample_qas_from_kis.csv

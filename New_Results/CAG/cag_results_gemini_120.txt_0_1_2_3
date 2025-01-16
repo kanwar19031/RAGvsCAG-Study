@@ -1,0 +1,727 @@
+Knowledge preparation completed in 13.38 seconds
+[0/120]: [CACHE HIT] Semantic Similarity: 0.79698,	cache time: 0.0020,	generate time: 0.0010
+Q: Which magazine was started first Arthur's Magazine or First for Women?
+A: Arthur's Magazine was started first.
+
+GT: Arthur's Magazine
+--------------------------------------------------------------------------------
+[1/120]: [CACHE HIT] Semantic Similarity: 0.61326,	cache time: 0.0000,	generate time: 0.0010
+Q: The Oberoi family is part of a hotel company that has a head office in what city?
+A: Answer: Mumbai
+
+GT: Delhi
+--------------------------------------------------------------------------------
+[2/120]: [CACHE HIT] Semantic Similarity: 0.21828,	cache time: 0.0000,	generate time: 0.0010
+Q: Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+A: Matt Groening named Milhouse after **his own son**.
+
+GT: President Richard Nixon
+--------------------------------------------------------------------------------
+[3/120]: [CACHE HIT] Semantic Similarity: 0.80594,	cache time: 0.0010,	generate time: 0.0010
+Q:  What nationality was James Henry Miller's wife?
+A: Answer:  American
+
+GT: American
+--------------------------------------------------------------------------------
+[4/120]: [CACHE HIT] Semantic Similarity: 0.47649,	cache time: 0.0000,	generate time: 0.0010
+Q: Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+A: Answer: Water
+
+GT: alcohol
+--------------------------------------------------------------------------------
+[5/120]: [CACHE HIT] Semantic Similarity: 0.10579,	cache time: 0.0010,	generate time: 0.0010
+Q: Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+A: Henri Leconte won more Grand Slam titles.
+
+GT: Jonathan Stark
+--------------------------------------------------------------------------------
+[6/120]: [CACHE HIT] Semantic Similarity: 0.13111,	cache time: 0.0010,	generate time: 0.0010
+Q: Which genus of moth in the world's seventh-largest country contains only one species?
+A: Answer:  *Eacles*
+
+GT: Crambidae
+--------------------------------------------------------------------------------
+[7/120]: [CACHE HIT] Semantic Similarity: 0.06952,	cache time: 0.0010,	generate time: 0.0010
+Q: Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+A: Answer:  Ronda Rousey
+
+GT: Badr Hari
+--------------------------------------------------------------------------------
+[8/120]: [CACHE HIT] Semantic Similarity: 0.65603,	cache time: 0.0000,	generate time: 0.0010
+Q: The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+A: 1999
+
+GT: 2006
+--------------------------------------------------------------------------------
+[9/120]: [CACHE HIT] Semantic Similarity: 0.48399,	cache time: 0.0010,	generate time: 0.0010
+Q: What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+A: The Mount Panorama Circuit, where the 2013 Liqui Moly Bathurst 12 Hour was held, is 6.2km (3.9 miles) long.
+
+GT: 6.213 km long
+--------------------------------------------------------------------------------
+[10/120]: [CACHE HIT] Semantic Similarity: 0.25769,	cache time: 0.0000,	generate time: 0.0010
+Q: Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+A: Answer:  DJ Premier
+
+GT: Jaime Meline
+--------------------------------------------------------------------------------
+[11/120]: [CACHE HIT] Semantic Similarity: 0.22433,	cache time: 0.0010,	generate time: 0.0010
+Q: Gunmen from Laredo starred which narrator of "Frontier"?
+A: Gunmen from Laredo starred **Gene Autry**.
+
+GT: Walter Darwin Coy
+--------------------------------------------------------------------------------
+[12/120]: [CACHE HIT] Semantic Similarity: 0.04066,	cache time: 0.0000,	generate time: 0.0010
+Q: Where did the form of music played by Die Rhöner Säuwäntzt originate?
+A: The form of music played by Die Rhöner Säuwäntzt originated in the **Rhön region of Germany**.
+
+GT: United States
+--------------------------------------------------------------------------------
+[13/120]: [CACHE HIT] Semantic Similarity: 0.57011,	cache time: 0.0010,	generate time: 0.0010
+Q: In which American football game was Malcolm Smith named Most Valuable player?
+A: Malcolm Smith was named Super Bowl XLVIII MVP.
+
+GT: Super Bowl XLVIII
+--------------------------------------------------------------------------------
+[14/120]: [CACHE HIT] Semantic Similarity: 0.39087,	cache time: 0.0010,	generate time: 0.0010
+Q: What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+A: US-281
+
+GT: US 60
+--------------------------------------------------------------------------------
+[15/120]: [CACHE HIT] Semantic Similarity: 0.59867,	cache time: 0.0000,	generate time: 0.0010
+Q: The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+A: Answer: 1998
+
+GT: 2006
+--------------------------------------------------------------------------------
+[16/120]: [CACHE HIT] Semantic Similarity: 0.37258,	cache time: 0.0010,	generate time: 0.0010
+Q: What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? 
+A: Unfortunately, I do not have access to a definitive, constantly updated list of band member lineups for every band.  To get the names of the current members of the band who wrote the music for *Hurt Locker The Musical*, you would need to consult reliable sources like the band's official website, reputable music news sites, or interviews with the band members themselves.
+
+GT: Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.
+--------------------------------------------------------------------------------
+[17/120]: [CACHE HIT] Semantic Similarity: 0.38417,	cache time: 0.0010,	generate time: 0.0010
+Q: Human Error" is the season finale of the third season of a tv show that aired on what network?
+A: The CW
+
+GT: Fox
+--------------------------------------------------------------------------------
+[18/120]: [CACHE HIT] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 0.0010
+Q: Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+A: 2017
+
+GT: 2017
+--------------------------------------------------------------------------------
+[19/120]: [CACHE HIT] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 0.0010
+Q: American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+A: Nevada
+
+GT: Nevada
+--------------------------------------------------------------------------------
+[20/120]: [CACHE HIT] Semantic Similarity: 0.10833,	cache time: 0.0010,	generate time: 0.0010
+Q: Which state does the drug stores, of which the CEO is Warren Bryant, are located?
+A: Please provide the name of the drug store chain.  I need that information to answer the question.
+
+GT: Hawaii
+--------------------------------------------------------------------------------
+[21/120]: [CACHE HIT] Semantic Similarity: 0.15624,	cache time: 0.0000,	generate time: 0.0010
+Q: Which  American politician did Donahue replaced 
+A: Donahue replaced **Senator Edward Kennedy** as the host of *The Donahue Show*.
+
+GT: Kelli Ward
+--------------------------------------------------------------------------------
+[22/120]: [CACHE HIT] Semantic Similarity: 0.7362,	cache time: 0.0000,	generate time: 0.0010
+Q: Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?
+A: The Wolfhounds were founded first.
+
+GT: The Wolfhounds
+--------------------------------------------------------------------------------
+[23/120]: [CACHE HIT] Semantic Similarity: 0.60917,	cache time: 0.0000,	generate time: 0.0010
+Q: How old is the female main protagonist of Catching Fire?
+A: 17
+
+GT: 16-year-old
+--------------------------------------------------------------------------------
+[24/120]: [CACHE HIT] Semantic Similarity: 0.54577,	cache time: 0.0010,	generate time: 0.0010
+Q: Chang Ucchin was born in korea during a time that ended with the conclusion of what? 
+A: The Korean War.
+
+GT: World War II
+--------------------------------------------------------------------------------
+[25/120]: [CACHE HIT] Semantic Similarity: 0.20065,	cache time: 0.0000,	generate time: 0.0010
+Q: Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?
+A: Answer:  Quentin Tarantino
+
+GT: Todd Phillips
+--------------------------------------------------------------------------------
+[26/120]: [CACHE HIT] Semantic Similarity: 0.45817,	cache time: 0.0010,	generate time: 0.0010
+Q: New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?
+A: Answer:  Judy Holliday
+
+GT: Carol Lawrence
+--------------------------------------------------------------------------------
+[27/120]: [CACHE HIT] Semantic Similarity: 0.04447,	cache time: 0.0000,	generate time: 0.0010
+Q: Were Pavel Urysohn and Leonid Levin known for the same type of work?
+A: No.  Pavel Urysohn was a prominent mathematician known for his work in topology, particularly general topology.  Leonid Levin was a computer scientist known for his work in computational complexity, specifically algorithmic randomness and Kolmogorov complexity.  Their fields of expertise and areas of contribution were quite different.
+
+GT: no
+--------------------------------------------------------------------------------
+[28/120]: [CACHE HIT] Semantic Similarity: 0.1732,	cache time: 0.0000,	generate time: 0.0010
+Q: Are both The New Pornographers and Kings of Leon American rock bands?
+A: No.  The New Pornographers are Canadian.  Kings of Leon are American.
+
+GT: no
+--------------------------------------------------------------------------------
+[29/120]: [CACHE HIT] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 0.0010
+Q: 750 7th Avenue and 101 Park Avenue, are located in which city?
+A: New York City
+
+GT: New York City
+--------------------------------------------------------------------------------
+[30/120]: [CACHE HIT] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 0.0010
+Q: Which actress played the part of fictitious character Kimberly Ann Hart, in the franchise built around a live action superhero television series taking much of its footage from the Japanese tokusatsu 'Super Sentai'?
+A: Amy Jo Johnson
+
+GT: Amy Jo Johnson
+--------------------------------------------------------------------------------
+[31/120]: [CACHE HIT] Semantic Similarity: 0.11391,	cache time: 0.0010,	generate time: 0.0010
+Q: Who was born first, Pablo Trapero or Aleksander Ford?
+A: To answer this, you need to know their dates of birth.  Unfortunately, that information isn't readily available in the prompt.
+
+GT: Aleksander Ford
+--------------------------------------------------------------------------------
+[32/120]: [CACHE HIT] Semantic Similarity: 0.83686,	cache time: 0.0000,	generate time: 0.0010
+Q: Are Jane and First for Women both women's magazines?
+A: Yes.
+
+GT: yes
+--------------------------------------------------------------------------------
+[33/120]: [CACHE HIT] Semantic Similarity: 0.85296,	cache time: 0.0000,	generate time: 0.0010
+Q: What profession does Nicholas Ray and Elia Kazan have in common?
+A: Film director
+
+GT: director
+--------------------------------------------------------------------------------
+[34/120]: [CACHE HIT] Semantic Similarity: 0.20585,	cache time: 0.0000,	generate time: 0.0010
+Q: Where is the company that purchased Aixam based in?
+A: The company that purchased Aixam is based in **France**.
+
+GT: Roseau, Minnesota, USA
+--------------------------------------------------------------------------------
+[35/120]: [CACHE HIT] Semantic Similarity: 0.59615,	cache time: 0.0000,	generate time: 0.0010
+Q: Which documentary is about Finnish rock groups, Adam Clayton Powell or The Saimaa Gesture?
+A: The documentary about Finnish rock groups is **The Saimaa Gesture**.
+
+GT: The Saimaa Gesture
+--------------------------------------------------------------------------------
+[36/120]: [CACHE HIT] Semantic Similarity: 0.97888,	cache time: 0.0000,	generate time: 0.0010
+Q: Who was inducted into the Rock and Roll Hall of Fame, David Lee Roth or Cia Berg?
+A: David Lee Roth.
+
+GT: David Lee Roth
+--------------------------------------------------------------------------------
+[37/120]: [CACHE HIT] Semantic Similarity: 0.27653,	cache time: 0.0010,	generate time: 0.0010
+Q: Zimbabwe's Guwe Secondary School has a sister school in what New York cunty?
+A: Answer:  The answer is **Bronx**.
+
+GT: Nassau County
+--------------------------------------------------------------------------------
+[38/120]: [CACHE HIT] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 0.0010
+Q: The Royal Commission into Drug Trafficking (1977–1979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the New South Wales Police and Mafia, The Honoured Society, is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of which country?  
+A: Australia
+
+GT: Australia
+--------------------------------------------------------------------------------
+[39/120]: [CACHE HIT] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 0.0010
+Q: The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?
+A: California
+
+GT: California
+--------------------------------------------------------------------------------
+[40/120]: [CACHE HIT] Semantic Similarity: 0.24017,	cache time: 0.0000,	generate time: 0.0010
+Q: The axial turbojet Pirna 014 was designed by engineers from this German aircraft and aircraft engine manufacturer based in which city?
+A: Stuttgart
+
+GT: Dessau
+--------------------------------------------------------------------------------
+[41/120]: [CACHE MISS] Semantic Similarity: 0.92977,	cache time: 0.0000,	generate time: 3.4570
+Q: Which faith is designated to the University of Providence, private university accredited by the NW association of Schools and Colleges and located in a third largest city in Montana after being passed by Missoula? 
+A: Catholic
+
+GT: Roman Catholic
+--------------------------------------------------------------------------------
+[42/120]: [CACHE HIT] Semantic Similarity: 0.14507,	cache time: 0.0010,	generate time: 0.0010
+Q: Pauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?
+A: Please provide the cover song title.  I need that information to answer the question.
+
+GT: The Joshua Tree
+--------------------------------------------------------------------------------
+[43/120]: [CACHE HIT] Semantic Similarity: 0.28085,	cache time: 0.0000,	generate time: 0.0010
+Q: Guitars for Wounded Warriors is an album that was recorded in the village in which New York county?
+A: The album *Guitars for Wounded Warriors* was recorded in **Orange** County, New York.
+
+GT: Ulster County
+--------------------------------------------------------------------------------
+[44/120]: [CACHE MISS] Semantic Similarity: 0.48823,	cache time: 0.0000,	generate time: 3.5332
+Q: What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song "The Battle?"
+A: Loretta Lynn
+
+GT: Tammy Wynette
+--------------------------------------------------------------------------------
+[45/120]: [CACHE MISS] Semantic Similarity: 0.35421,	cache time: 0.0000,	generate time: 4.0150
+Q: Who was born first, Francis Nethersole or Elizabeth Stuart?
+A: Elizabeth Stuart was born first.
+
+GT: Sir Francis Nethersole
+--------------------------------------------------------------------------------
+[46/120]: [CACHE MISS] Semantic Similarity: 0.40959,	cache time: 0.0000,	generate time: 3.6085
+Q: What does the Hacker-Pschorr Brewery have to limit in order to comply with German regulations?
+A: The Hacker-Pschorr Brewery has to limit its **alcohol content** to comply with German regulations.
+
+GT: ingredients in beer
+--------------------------------------------------------------------------------
+[47/120]: [CACHE MISS] Semantic Similarity: 0.23055,	cache time: 0.0000,	generate time: 3.5156
+Q: Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?
+A: The answer is **Dafydd ap Rhys**.
+
+GT: Dennis Howard Marks
+--------------------------------------------------------------------------------
+[48/120]: [CACHE MISS] Semantic Similarity: 0.23931,	cache time: 0.0000,	generate time: 3.7233
+Q: What male actor starred in The Messenger?
+A: Answer:  Woody Harrelson
+
+GT: Robert Sheehan
+--------------------------------------------------------------------------------
+[49/120]: [CACHE MISS] Semantic Similarity: 0.07182,	cache time: 0.0000,	generate time: 3.5302
+Q: Are Gin and tonic and Paloma both cocktails based on tequila?
+A: No.  A Paloma is based on tequila, while a Gin and Tonic is based on gin.
+
+GT: no
+--------------------------------------------------------------------------------
+[50/120]: [CACHE MISS] Semantic Similarity: 0.8431,	cache time: 0.0000,	generate time: 3.4983
+Q: Who is older Glenn Hughes or Ross Lynch?
+A: Glenn Hughes is older.
+
+GT: Glenn Hughes
+--------------------------------------------------------------------------------
+[51/120]: [CACHE MISS] Semantic Similarity: 0.60925,	cache time: 0.0010,	generate time: 3.5175
+Q: In what year was the creator of the current arrangement of the "Simpson's Theme" born?
+A: 1942
+
+GT: March 28, 1941
+--------------------------------------------------------------------------------
+[52/120]: [CACHE MISS] Semantic Similarity: 0.71549,	cache time: 0.0010,	generate time: 3.7026
+Q: The Southern Railway runs from Vienna to Graz and the border with Slovenia at Spielfeld via the first mountain railway built in Europe to use what kind of track?
+A: Answer:  The Southern Railway used **standard gauge** track.
+
+GT: standard gauge track
+--------------------------------------------------------------------------------
+[53/120]: [CACHE MISS] Semantic Similarity: 0.9229,	cache time: 0.0005,	generate time: 3.5256
+Q: In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?
+A: **Sex and the City**
+
+GT: Sex and the City
+--------------------------------------------------------------------------------
+[54/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0010,	generate time: 3.6175
+Q: Lee Jun-fan played what character in "The Green Hornet" television series?
+A: Kato
+
+GT: Kato
+--------------------------------------------------------------------------------
+[55/120]: [CACHE MISS] Semantic Similarity: 0.88664,	cache time: 0.0010,	generate time: 3.5004
+Q: The 1895/96 Football League season was the eighth in Football League history with Everton, their Goodison Park home, is a football stadium located in Walton, Liverpool, in which country?
+A: Answer: England
+
+GT: England
+--------------------------------------------------------------------------------
+[56/120]: [CACHE MISS] Semantic Similarity: 0.28619,	cache time: 0.0000,	generate time: 3.5547
+Q: A Head Full of Dreams Tour is the seventh tour by Coldplay, and which had it's first show at a stadium that is known as Estadio Unico and is owned by who?
+A: Answer:  Estadio Único is owned by **the province of Santa Fe**.
+
+GT: Province of Buenos Aires
+--------------------------------------------------------------------------------
+[57/120]: [CACHE MISS] Semantic Similarity: 0.9238,	cache time: 0.0010,	generate time: 3.6696
+Q: Roger Avary (born August 23, 1965) is a Canadian film and television producer, screenwriter and director in the American mass media industry, he wrote the screenplay for Beowulf, a 2007 British-American 3D motion capture epic fantasy film, directed by who?
+A: Answer:  Robert Zemeckis
+
+GT: Robert Zemeckis
+--------------------------------------------------------------------------------
+[58/120]: [CACHE MISS] Semantic Similarity: 0.76191,	cache time: 0.0000,	generate time: 3.4962
+Q: The American Pre-Code comedy film featuring an American actress, dancer, and singer, widely known for performing in films and RKO's musical films, was released in what year?
+A: 1933
+
+GT: 1932
+--------------------------------------------------------------------------------
+[59/120]: [CACHE MISS] Semantic Similarity: 0.14505,	cache time: 0.0000,	generate time: 3.8669
+Q: An edited version of "Just the Two of Us" reached number two on the "Billboard" Hot 100 behind a song written and composed by Donna Weiss and Jackie DeShannon which spend how many weeks at No. 1 on the "Billboard" hot 100?
+A: The song that spent time at No. 1, behind the edited version of "Just the Two of Us", was "Put a Little Love in Your Heart" by Jackie DeShannon and Donna Weiss.  It spent **one** week at No. 1.
+
+GT: nine
+--------------------------------------------------------------------------------
+[60/120]: [CACHE MISS] Semantic Similarity: 0.98587,	cache time: 0.0000,	generate time: 3.6712
+Q: Which band has more members, Saint Motel or Curve?
+A: Saint Motel.
+
+GT: Saint Motel
+--------------------------------------------------------------------------------
+[61/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0010,	generate time: 3.5877
+Q: "Funnybot" is the second episode of the fifteenth season of which American animated television series, created by Trey Parker and Matt Stone?  
+A: South Park
+
+GT: South Park
+--------------------------------------------------------------------------------
+[62/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 3.6646
+Q: Which private research university is located in Chestnut Hill, Massachusetts Boston College or Stanford University? 
+A: Boston College
+
+GT: Boston College
+--------------------------------------------------------------------------------
+[63/120]: [CACHE MISS] Semantic Similarity: 0.87176,	cache time: 0.0000,	generate time: 3.5215
+Q: What American stage, film, and television actor  who also appeared in a large number of musicals, played Samson in the 1949 film "Samson and Delilah".
+A: Victor Mature
+
+GT: Victor John Mature
+--------------------------------------------------------------------------------
+[64/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0010,	generate time: 3.5774
+Q: Iqaluit Airport and Canadian North are based out of what country?
+A: Canada
+
+GT: Canada
+--------------------------------------------------------------------------------
+[65/120]: [CACHE MISS] Semantic Similarity: 0.05753,	cache time: 0.0010,	generate time: 3.6806
+Q: In what political party was the man who officially opened he Royal Spa Centre in 1972?
+A: Please provide the name of the man who opened the Royal Spa Centre in 1972.  I need that information to answer the question.
+
+GT: Conservative
+--------------------------------------------------------------------------------
+[66/120]: [CACHE MISS] Semantic Similarity: 0.14788,	cache time: 0.0010,	generate time: 3.5816
+Q: Which Oscar-nominated film was written by the screenwriter who wrote a 1991 romantic drama based upon a screenplay by Sooni Taraporevala?
+A: The answer is **"The Remains of the Day"**.
+
+GT: Salaam Bombay
+--------------------------------------------------------------------------------
+[67/120]: [CACHE MISS] Semantic Similarity: 0.83686,	cache time: 0.0010,	generate time: 3.7343
+Q: Are both Tim McIlrath and Spike Slawson American punk rock musicians?
+A: Yes.
+
+GT: yes
+--------------------------------------------------------------------------------
+[68/120]: [CACHE MISS] Semantic Similarity: 0.16642,	cache time: 0.0010,	generate time: 3.6544
+Q: The Golden Globe Award winner for best actor from "Roseanne" starred along what actress in Gigantic?
+A: The Golden Globe winner for best actor from "Roseanne" was John Goodman.  He starred in *Gigantic* with **Beatrice Straight**.
+
+GT: Zooey Deschanel
+--------------------------------------------------------------------------------
+[69/120]: [CACHE MISS] Semantic Similarity: 0.42484,	cache time: 0.0010,	generate time: 3.5125
+Q: The expert mentor to the celebrities that perform on "Splash!" won the 2009 FINA World Championionship in the individual event at what age? 
+A: Answer: 22
+
+GT: 15
+--------------------------------------------------------------------------------
+[70/120]: [CACHE MISS] Semantic Similarity: 0.43824,	cache time: 0.0000,	generate time: 3.5172
+Q: Still Da Baddest is the fourth studio album by American rapper Trina, following the poor chart performance, "I Got a Thang for You" featuring which American singer/songwriter, record producer, business woman, and television personality, and was born in Oakland, California?
+A: Answer:  Ciara
+
+GT: Keyshia Cole
+--------------------------------------------------------------------------------
+[71/120]: [CACHE MISS] Semantic Similarity: 0.38944,	cache time: 0.0013,	generate time: 3.8035
+Q: What profession does Am Rong and Alexandre Rockwell have in common?
+A: Answer:  They are both **artists**.
+
+GT: filmmaker
+--------------------------------------------------------------------------------
+[72/120]: [CACHE MISS] Semantic Similarity: 0.71162,	cache time: 0.0000,	generate time: 3.6065
+Q: El Nuevo Cojo and Golf Magazine are both special interest publications but which one is owned by Time Inc?
+A: Golf Magazine is owned by Time Inc.
+
+GT: Golf Magazine
+--------------------------------------------------------------------------------
+[73/120]: [CACHE MISS] Semantic Similarity: -0.03797,	cache time: 0.0010,	generate time: 3.5421
+Q: Who funds the bowling team that includes the school bus driver for Springfield Elementary School?
+A: The answer cannot be determined from the question.  There is no information about funding sources.
+
+GT: Mr. Burns
+--------------------------------------------------------------------------------
+[74/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 3.5195
+Q: What city are George Washington University Hospital and MedStar Washington Hospital Center located in?
+A: Washington, D.C.
+
+GT: Washington, D.C.
+--------------------------------------------------------------------------------
+[75/120]: [CACHE MISS] Semantic Similarity: 0.13988,	cache time: 0.0010,	generate time: 3.9607
+Q: what is the connection between Peter O'Meara and Norman Dike?
+A: Peter O'Meara and Norman Dike were both geologists who worked on the geology of the British Isles, particularly in the area of igneous rocks.  However, there's no readily apparent direct connection between them, such as a mentor-student relationship, collaboration on a specific project, or a significant shared publication.  More information would be needed to establish a connection.
+
+GT: Band of Brothers
+--------------------------------------------------------------------------------
+[76/120]: [CACHE MISS] Semantic Similarity: 0.38949,	cache time: 0.0012,	generate time: 3.5951
+Q: What author has contributed to such works as "New Statesmen", "The Nation", and "The Atlantic", among others, while also being being associated with Dysteleology?
+A: John Gray
+
+GT: Christopher Hitchens
+--------------------------------------------------------------------------------
+[77/120]: [CACHE MISS] Semantic Similarity: 0.32953,	cache time: 0.0010,	generate time: 3.5078
+Q: Who developed the prototype pacemaker used by the 34th President of the USA?
+A: Wilson Greatbatch
+
+GT: R Adams Cowley
+--------------------------------------------------------------------------------
+[78/120]: [CACHE MISS] Semantic Similarity: 0.48542,	cache time: 0.0010,	generate time: 3.5548
+Q: Which publishing company has published Bizarre and a sister publication devoted to the anomalous phenomena popularised by Charles Fort?
+A: The publishing company is **The Mysterious Press**.
+
+GT: Dennis Publishing
+--------------------------------------------------------------------------------
+[79/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0010,	generate time: 3.5222
+Q: Who performed the lead single on the album Friends in Low Places, No Fences, that reached #1 on Billboard?
+A: Garth Brooks
+
+GT: Garth Brooks
+--------------------------------------------------------------------------------
+[80/120]: [CACHE MISS] Semantic Similarity: 0.14027,	cache time: 0.0000,	generate time: 3.5409
+Q: Hate to Feel is the tenth track on what Alice in Chains' album that peaked as number six on the Billboard 200?
+A: Alice in Chains' *Jar of Flies*
+
+GT: Dirt
+--------------------------------------------------------------------------------
+[81/120]: [CACHE MISS] Semantic Similarity: 0.26369,	cache time: 0.0010,	generate time: 3.5448
+Q: The lead singer and guitarist in the Portland, Oregon rock band consisting of John Gourley, Zach Carothers, Kyle O'Quin, Jason Sechrist and Eric Howk, goes by what alias?
+A: Answer:  John Gourley
+
+GT: The Fantastic The
+--------------------------------------------------------------------------------
+[82/120]: [CACHE MISS] Semantic Similarity: 0.21283,	cache time: 0.0000,	generate time: 3.6094
+Q: What year was the winner of the 2016 Marrakesh ePrix born?
+A: To answer this, I need the winner of the 2016 Marrakesh ePrix.  Please provide that information.
+
+GT: 1988
+--------------------------------------------------------------------------------
+[83/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 4.4997
+Q: South Korean actor Kim Yool-ho starred in what 2016 movie directed by Yeon Sang-ho Yeon Sang-ho and starring actors Gong Yoo, Jung Yu-mi, and Ma Dong-seok?
+A: Train to Busan
+
+GT: Train to Busan
+--------------------------------------------------------------------------------
+[84/120]: [CACHE MISS] Semantic Similarity: 0.00586,	cache time: 0.0000,	generate time: 3.8416
+Q: According to the 2006 census what is the population of the city in which James Iroha Uchechukwu was born ?
+A: Unfortunately, I do not have access to census data, and without knowing the city in which James Iroha Uchechukwu was born, I cannot answer the question.
+
+GT: 722,664
+--------------------------------------------------------------------------------
+[85/120]: [CACHE MISS] Semantic Similarity: 0.25602,	cache time: 0.0000,	generate time: 3.8290
+Q: What actor in the film D.C. Cab also had a role in the TV series Barney Miller?
+A: Answer:  John Randolph
+
+GT: Max Gail
+--------------------------------------------------------------------------------
+[86/120]: [CACHE MISS] Semantic Similarity: 0.5882,	cache time: 0.0010,	generate time: 3.4998
+Q: Which industry do Richard Hawley and Chicago's Catherine belong to? 
+A: Music
+
+GT: rock band
+--------------------------------------------------------------------------------
+[87/120]: [CACHE MISS] Semantic Similarity: 0.15029,	cache time: 0.0010,	generate time: 3.5973
+Q: Are Pam Veasey and Jon Jost both American?
+A: There is no readily available information to definitively answer this question.  More context is needed.
+
+GT: yes
+--------------------------------------------------------------------------------
+[88/120]: [CACHE MISS] Semantic Similarity: 0.75233,	cache time: 0.0000,	generate time: 3.5801
+Q: Maurice Hines and his brother were famous for what?
+A: Maurice Hines and his brother, Gregory Hines, were famous for **tap dancing**.
+
+GT: dancer Gregory Hines
+--------------------------------------------------------------------------------
+[89/120]: [CACHE MISS] Semantic Similarity: 0.04411,	cache time: 0.0000,	generate time: 3.6363
+Q: Are the New Orleans Outfall Canals the same length as the Augusta Canal?
+A: No, the lengths are not the same.  There is no readily available, definitive answer to the exact lengths of both canals.  More information is needed to compare them.
+
+GT: yes
+--------------------------------------------------------------------------------
+[90/120]: [CACHE MISS] Semantic Similarity: 0.77269,	cache time: 0.0000,	generate time: 3.4820
+Q: In which stadium do the teams owned by Myra Kraft's husband play?
+A: The New England Patriots play in Gillette Stadium.
+
+GT: Gillette Stadium
+--------------------------------------------------------------------------------
+[91/120]: [CACHE MISS] Semantic Similarity: 0.10004,	cache time: 0.0010,	generate time: 3.5716
+Q: What southern California based band covered Blue Öyster Cult's Godzilla?
+A: The Southern California band that covered Blue Öyster Cult's "Godzilla" was **The Tubes**.
+
+GT: Fu Manchu
+--------------------------------------------------------------------------------
+[92/120]: [CACHE MISS] Semantic Similarity: 1e-05,	cache time: 0.0010,	generate time: 3.5951
+Q: The Swedish-British entertainment studio executive and film executive producer, who was the Executive producer for a 2016 American action thriller film directed by Babak Najafi, currently serve?
+A: Please provide the name of the 2016 American action thriller film.  I need that information to answer the question.
+
+GT: CEO of Lionsgate UK & Europe
+--------------------------------------------------------------------------------
+[93/120]: [CACHE MISS] Semantic Similarity: 0.17289,	cache time: 0.0000,	generate time: 3.4919
+Q: an Emmy Award winner and two-time Tony Award winner, was on the episode 15 of the third season of "Chuck". what is her name ?
+A: Sarah Jessica Parker
+
+GT: Swoosie Kurtz
+--------------------------------------------------------------------------------
+[94/120]: [CACHE MISS] Semantic Similarity: 0.21144,	cache time: 0.0000,	generate time: 3.5668
+Q: What is the current name of the Atlanta Mansion built for the daughter of the 41st Mayor of Atlanta, Georgia?
+A: The current name of the Atlanta mansion built for the daughter of the 41st Mayor of Atlanta is **The Mansion on Peachtree**.
+
+GT: Lullwater Estate
+--------------------------------------------------------------------------------
+[95/120]: [CACHE MISS] Semantic Similarity: -0.00073,	cache time: 0.0000,	generate time: 3.6857
+Q: Who invented the type of script used in autographs?
+A: There isn't one inventor of the script used in autographs.  Autograph styles are highly individual and developed over time through personal practice and adaptation.  Different people develop their own unique handwriting.
+
+GT: the Sumerians
+--------------------------------------------------------------------------------
+[96/120]: [CACHE MISS] Semantic Similarity: -0.00815,	cache time: 0.0000,	generate time: 3.7026
+Q: Approximately what percentage of the global population is made up of the ethnic group Princess Fragrant was produced to improve relations with?
+A: There is no information available about a fictional ethnic group "Princess Fragrant" or the purpose of its creation.  Therefore, no answer can be given.
+
+GT: 17%
+--------------------------------------------------------------------------------
+[97/120]: [CACHE MISS] Semantic Similarity: 0.23484,	cache time: 0.0010,	generate time: 3.6457
+Q: The Boren-McCurdy proposals were partially brought about by which Oklahoma politician in 1992?
+A: Answer:  Representative Mickey Edwards
+
+GT: David Lyle Boren
+--------------------------------------------------------------------------------
+[98/120]: [CACHE MISS] Semantic Similarity: 0.49732,	cache time: 0.0000,	generate time: 3.9262
+Q: The Thoen Stone is on display at a museum in what county?
+A: Answer:  Polk County
+
+GT: Lawrence County
+--------------------------------------------------------------------------------
+[99/120]: [CACHE MISS] Semantic Similarity: 0.85006,	cache time: 0.0000,	generate time: 3.5661
+Q: Is Children's National Medical Center or MedStar Washington Hospital Center the largest private hospital in Washington, D.C.?
+A: MedStar Washington Hospital Center is the larger of the two.
+
+GT: MedStar Washington Hospital Center
+--------------------------------------------------------------------------------
+[100/120]: [CACHE MISS] Semantic Similarity: 0.61368,	cache time: 0.0000,	generate time: 3.5126
+Q: Prince William, Duke of Gloucester and Prince George of Denmark, were eventually monarchs of which Kingdom?
+A: England
+
+GT: Great Britain
+--------------------------------------------------------------------------------
+[101/120]: [CACHE MISS] Semantic Similarity: 0.10996,	cache time: 0.0010,	generate time: 3.7994
+Q: The airline operating in Whitehorse, Yukon handled how many passengers in 2012?
+A: Unfortunately, I do not have access to real-time data, including specific passenger figures for airlines in Whitehorse, Yukon in 2012.  To get this information, you would need to consult official airline or airport records.
+
+GT: 294,000
+--------------------------------------------------------------------------------
+[102/120]: [CACHE MISS] Semantic Similarity: 0.59314,	cache time: 0.0000,	generate time: 3.5979
+Q: What State has a Disney Resort & Spa that is a beachside hotel, resort and vacation destination offering complimentary children's activities and programs and that Djuan Rivers was a General Manager at?
+A: Florida
+
+GT: Hawaii
+--------------------------------------------------------------------------------
+[103/120]: [CACHE MISS] Semantic Similarity: 0.83686,	cache time: 0.0000,	generate time: 3.6298
+Q: Are Wenling and Xinzheng both in China?
+A: Yes.
+
+GT: yes
+--------------------------------------------------------------------------------
+[104/120]: [CACHE MISS] Semantic Similarity: 0.24557,	cache time: 0.0000,	generate time: 3.6759
+Q: What is the birth date of the coach of the 2014-15 Michigan Wolverines men's basketball team?
+A: Unfortunately, I do not have access to a comprehensive database of coach birthdates.  To get this information, you would need to consult a sports statistics website or a biography.
+
+GT: February 5, 1953
+--------------------------------------------------------------------------------
+[105/120]: [CACHE MISS] Semantic Similarity: 0.28835,	cache time: 0.0000,	generate time: 3.6951
+Q: Which organization presents the award in which Chris Noonan was nominated for his work in "Babe?"
+A: The **Academy of Country Music** presented the award for which Chris Noonan was nominated for his work in "Babe."
+
+GT: Academy of Motion Picture Arts and Sciences
+--------------------------------------------------------------------------------
+[106/120]: [CACHE MISS] Semantic Similarity: 0.16619,	cache time: 0.0009,	generate time: 3.8817
+Q: Where is the base of one of the three main British intelligence agencies?
+A: The base of MI5, one of the three main British intelligence agencies, is in London.
+
+GT: Cheltenham
+--------------------------------------------------------------------------------
+[107/120]: [CACHE MISS] Semantic Similarity: 0.17191,	cache time: 0.0000,	generate time: 3.5432
+Q: When a Man Falls in Love, is a 2013 South Korean television series, starring Song Seung-heon, Shin Se-kyung, Chae Jung-an, and which South Korean actor, born on ? 
+A: Answer:  Kim Ji-suk
+
+GT: July 5, 1984
+--------------------------------------------------------------------------------
+[108/120]: [CACHE MISS] Semantic Similarity: 0.81638,	cache time: 0.0000,	generate time: 3.7709
+Q: What retailer is the second-largest in the United States and has a commercial featuring the American artist who was 1st runner-up in the 2005 USA Weekend Magazine's songwriting competition?
+A: Target
+
+GT: Target Corporation
+--------------------------------------------------------------------------------
+[109/120]: [CACHE MISS] Semantic Similarity: 0.27444,	cache time: 0.0000,	generate time: 3.5259
+Q: Which English actor of stage, film and television from the 1978 BBC drama "Pennies From Heaven" appeared in the 2006 BBC Four television play "Kenneth Williams: Fantabulosa!?"
+A: Michael Palin
+
+GT: Cheryl Campbell
+--------------------------------------------------------------------------------
+[110/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 3.5069
+Q: Who hosted both Miss USA 1968 and The Price Is Right?
+A: Bob Barker
+
+GT: Bob Barker
+--------------------------------------------------------------------------------
+[111/120]: [CACHE MISS] Semantic Similarity: 0.17203,	cache time: 0.0000,	generate time: 3.5480
+Q: What video game published by Sierra Entertainment includes an antagonist figure who's mystery is the core of the series? 
+A: Answer:  King's Quest
+
+GT: F.E.A.R.
+--------------------------------------------------------------------------------
+[112/120]: [CACHE MISS] Semantic Similarity: 0.2009,	cache time: 0.0010,	generate time: 3.8348
+Q: Close to the Enemy starred the English actor known as Ash Morgan in what BBC series?
+A: Answer:  Close to the Enemy starred Ash Morgan in **The Avengers**.
+
+GT: Hustle
+--------------------------------------------------------------------------------
+[113/120]: [CACHE MISS] Semantic Similarity: 0.67139,	cache time: 0.0000,	generate time: 3.5111
+Q: The Bass Rock Lighthouse was next to what Castle?
+A: The Bass Rock Lighthouse was next to **Tantallon Castle**.
+
+GT: Tantallon Castle
+--------------------------------------------------------------------------------
+[114/120]: [CACHE MISS] Semantic Similarity: 1.0,	cache time: 0.0000,	generate time: 3.4910
+Q: Gülhane Park and Zografeion Lyceum, are located in which country?
+A: Turkey
+
+GT: Turkey
+--------------------------------------------------------------------------------
+[115/120]: [CACHE MISS] Semantic Similarity: 0.09729,	cache time: 0.0000,	generate time: 3.8671
+Q: What is the name of the movie in which Edwin Brown plays a man that executed at least 400 people, including William Joyce and John Amery?
+A: The film is **The Man in the Iron Mask**.  Edwin Brown played the role of the executioner, but the film does *not* focus on the execution of William Joyce or John Amery.  Those figures were executed by hanging, not guillotine.  The film is about the French Revolution and the executioner.
+
+GT: 10 Rillington Place
+--------------------------------------------------------------------------------
+[116/120]: [CACHE MISS] Semantic Similarity: 0.62523,	cache time: 0.0010,	generate time: 3.6887
+Q: What genre of music is the solo artist that contributed to Real Damage a variant of?
+A: Answer:  Electronic music, specifically a subgenre like synth-pop or electronic pop.
+
+GT: synth-pop
+--------------------------------------------------------------------------------
+[117/120]: [CACHE MISS] Semantic Similarity: 0.28281,	cache time: 0.0010,	generate time: 3.8262
+Q: Jake David Shapiro was best know for being the screenwriter of a film directed by who?
+A: Answer:  **Robert Zemeckis**
+
+GT: Roger Christian
+--------------------------------------------------------------------------------
+[118/120]: [CACHE MISS] Semantic Similarity: 0.34958,	cache time: 0.0010,	generate time: 3.5898
+Q: What book contains a poem which, along with "Beowulf" and the "Anglo-Saxon Chronicle", preserves a legendary list of the kings of the Angles?
+A: The answer is the **Anglo-Saxon Chronicle**.
+
+GT: Exeter Book
+--------------------------------------------------------------------------------
+[119/120]: [CACHE MISS] Semantic Similarity: 0.21695,	cache time: 0.0010,	generate time: 3.5186
+Q: Norbert Holm was arrested and later demoted because of his Chief of Operations association with a military theorist popularly known as what?
+A: Answer:  General Petraeus
+
+GT: the Desert Fox
+--------------------------------------------------------------------------------
+
+Final Results:
+Prepare time: 13.384892702102661
+Average Semantic Similarity: 0.47405962264941387
+Average cache time: 0.0004249850908915202
+Average generate time: 2.3343141636689504

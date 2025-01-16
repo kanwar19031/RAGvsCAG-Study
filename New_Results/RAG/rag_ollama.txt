@@ -1,0 +1,591 @@
+Configuration:
+Model: llama3.2
+Max Knowledge: 27
+Max Paragraph: None
+Max Questions: 27
+Random Seed: None
+resource module not available on Windows
+Finding newlines for mmindex: 100%|███████████████████████████████████████████████████████████████████████████████████| 384k/384k [00:00<00:00, 128MB/s]
+Retriever bm25 prepared in 0.07600140571594238 seconds
+Ensuring model llama3.2 is pulled and ready...
+Model ready!
+
+Processing batch 1/10
+
+Processing question 1/27:
+Q: Which magazine was started first Arthur's Magazine or First for Women?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 15.18s
+A: Arthur's Magazine.
+GT: Arthur's Magazine
+
+Results for question 1:
+Semantic Similarity: 0.98538
+Retrieve time: 0.00s
+Generate time: 15.18s
+
+Cumulative metrics after 1 questions:
+Average Similarity: 0.98538
+Average Retrieve time: 0.00s
+Average Generate time: 15.18s
+--------------------------------------------------------------------------------
+
+Processing question 2/27:
+Q: The Oberoi family is part of a hotel company that has a head office in what city?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 18.27s
+A: Delhi.
+GT: Delhi
+
+Results for question 2:
+Semantic Similarity: 0.97080
+Retrieve time: 0.00s
+Generate time: 18.27s
+
+Cumulative metrics after 2 questions:
+Average Similarity: 0.97809
+Average Retrieve time: 0.00s
+Average Generate time: 16.72s
+--------------------------------------------------------------------------------
+
+Processing question 3/27:
+Q: Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 18.67s
+A: President Richard Nixon
+GT: President Richard Nixon
+
+Results for question 3:
+Semantic Similarity: 1.00000
+Retrieve time: 0.00s
+Generate time: 18.67s
+
+Cumulative metrics after 3 questions:
+Average Similarity: 0.98539
+Average Retrieve time: 0.00s
+Average Generate time: 17.37s
+--------------------------------------------------------------------------------
+
+Batch 1 Summary:
+Processed 3/3 questions
+Total processed: 3/27
+================================================================================
+
+Processing batch 2/10
+
+Processing question 4/27:
+Q:  What nationality was James Henry Miller's wife?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 28.91s
+A: The question doesn't specify which James Henry Miller is being referred to. However, based on the context, it appears that one of the James Henry Millers mentioned is likely Ewan MacColl, who was married to Peggy Seeger.
+
+If we assume that the James Henry Miller in question is Ewan MacColl's husband, then his wife would be American (Peggy Seeger).
+GT: American
+
+Results for question 4:
+Semantic Similarity: 0.21326
+Retrieve time: 0.00s
+Generate time: 28.91s
+
+Cumulative metrics after 4 questions:
+Average Similarity: 0.79236
+Average Retrieve time: 0.00s
+Average Generate time: 20.26s
+--------------------------------------------------------------------------------
+
+Processing question 5/27:
+Q: Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 22.40s
+A: I'm not seeing the answer to the question. Can you please provide more context or information about the question? I'll do my best to help once I have more details.
+GT: alcohol
+
+Results for question 5:
+Semantic Similarity: 0.07342
+Retrieve time: 0.00s
+Generate time: 22.40s
+
+Cumulative metrics after 5 questions:
+Average Similarity: 0.64857
+Average Retrieve time: 0.00s
+Average Generate time: 20.69s
+--------------------------------------------------------------------------------
+
+Processing question 6/27:
+Q: Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+Retrieved context in 0.00s
+Average Retrieve time: 0.00s
+Average Generate time: 22.45s
+--------------------------------------------------------------------------------
+
+Batch 2 Summary:
+Processed 3/3 questions
+Total processed: 6/27
+================================================================================
+
+Processing batch 3/10
+
+Processing question 7/27:
+Q: Which genus of moth in the world's seventh-largest country contains only one species?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 20.80s
+A: Nepita (specifically Nepita conferta)
+GT: Crambidae
+
+Results for question 7:
+Semantic Similarity: 0.17366
+Retrieve time: 0.00s
+Generate time: 20.80s
+
+Cumulative metrics after 7 questions:
+Average Similarity: 0.51871
+Average Retrieve time: 0.00s
+Average Generate time: 22.21s
+--------------------------------------------------------------------------------
+
+Processing question 8/27:
+Q: Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+Retrieved context in 0.00s
+Generating response...
+Generated response in 19.45s
+A: Bader Anas
+GT: Badr Hari
+
+Results for question 8:
+Semantic Similarity: 0.48907
+Retrieve time: 0.00s
+Generate time: 19.45s
+
+Cumulative metrics after 8 questions:
+Average Similarity: 0.51500
+Average Retrieve time: 0.00s
+Average Generate time: 21.87s
+--------------------------------------------------------------------------------
+
+Processing question 9/27:
+Q: The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 19.64s
+A: 2006.
+GT: 2006
+
+Results for question 9:
+Semantic Similarity: 0.94680
+Retrieve time: 0.00s
+Generate time: 19.64s
+
+Cumulative metrics after 9 questions:
+Average Similarity: 0.56298
+Average Retrieve time: 0.00s
+Average Generate time: 21.62s
+--------------------------------------------------------------------------------
+
+Batch 3 Summary:
+Processed 3/3 questions
+Total processed: 9/27
+================================================================================
+
+Processing batch 4/10
+
+Processing question 10/27:
+Q: What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 24.73s
+A: There is no information provided about the length of the track in your text. The text only mentions the event and its details, but does not provide any information about the track's dimensions or layout.
+GT: 6.213 km long
+
+Results for question 10:
+Semantic Similarity: 0.41667
+Retrieve time: 0.00s
+Generate time: 24.73s
+
+Cumulative metrics after 10 questions:
+Average Similarity: 0.54835
+Average Retrieve time: 0.00s
+Average Generate time: 21.93s
+--------------------------------------------------------------------------------
+
+Processing question 11/27:
+Q: Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 19.94s
+A: El-P.
+GT: Jaime Meline
+
+Results for question 11:
+Semantic Similarity: 0.22973
+Retrieve time: 0.00s
+Generate time: 19.94s
+
+Cumulative metrics after 11 questions:
+Average Similarity: 0.51938
+Average Retrieve time: 0.00s
+Average Generate time: 21.75s
+--------------------------------------------------------------------------------
+
+Processing question 12/27:
+Q: Gunmen from Laredo starred which narrator of "Frontier"?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 19.78s
+A: Buck Taylor.
+GT: Walter Darwin Coy
+
+Results for question 12:
+Semantic Similarity: 0.21144
+Retrieve time: 0.00s
+Generate time: 19.78s
+
+Cumulative metrics after 12 questions:
+Average Similarity: 0.49372
+Average Retrieve time: 0.00s
+Average Generate time: 21.58s
+--------------------------------------------------------------------------------
+
+Batch 4 Summary:
+Processed 3/3 questions
+Total processed: 12/27
+================================================================================
+
+Processing batch 5/10
+
+Processing question 13/27:
+Q: Where did the form of music played by Die Rhöner Säuwäntzt originate?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 26.99s
+A: The question doesn't mention Die Rhöner Säuwäntzt. However, I think you meant to ask about "Die Rhöner", which is a German folk band.
+
+If that's correct, the answer would be Germany, as they are a German folk band from the state of Hesse.
+GT: United States
+
+Results for question 13:
+Semantic Similarity: 0.10480
+Retrieve time: 0.00s
+Generate time: 26.99s
+
+Cumulative metrics after 13 questions:
+Average Similarity: 0.46381
+Average Retrieve time: 0.00s
+Average Generate time: 22.00s
+--------------------------------------------------------------------------------
+
+Processing question 14/27:
+Q: In which American football game was Malcolm Smith named Most Valuable player?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 21.82s
+A: Super Bowl XLVIII.
+GT: Super Bowl XLVIII
+
+Results for question 14:
+Semantic Similarity: 0.97941
+Retrieve time: 0.00s
+Generate time: 21.82s
+
+Cumulative metrics after 14 questions:
+Average Similarity: 0.50063
+Average Retrieve time: 0.00s
+Average Generate time: 21.99s
+--------------------------------------------------------------------------------
+
+Processing question 15/27:
+Q: What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 24.09s
+A: U.S. Highway 60 (US 60)
+GT: US 60
+
+Results for question 15:
+Semantic Similarity: 0.54156
+Retrieve time: 0.00s
+Generate time: 24.09s
+
+Cumulative metrics after 15 questions:
+Average Similarity: 0.50336
+Average Retrieve time: 0.00s
+Average Generate time: 22.13s
+--------------------------------------------------------------------------------
+
+Batch 5 Summary:
+Processed 3/3 questions
+Total processed: 15/27
+================================================================================
+
+Processing batch 6/10
+
+Processing question 16/27:
+Q: The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 28.75s
+A: The answer is not explicitly stated in the provided text. However, I can provide some additional information that might be helpful.
+
+The 1988 American comedy film "The Great Outdoors" starred John Candy, who was a four-time Academy Award nominee. According to various sources, John Candy received a star on the Hollywood Walk of Fame in 1994.
+GT: 2006
+
+Results for question 16:
+Semantic Similarity: 0.09067
+Retrieve time: 0.00s
+Generate time: 28.75s
+
+Cumulative metrics after 16 questions:
+Average Similarity: 0.47757
+Average Retrieve time: 0.00s
+Average Generate time: 22.54s
+--------------------------------------------------------------------------------
+
+Processing question 17/27:
+Q: What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 23.67s
+A: There is no information provided about an American heavy metal band that wrote a musical called "Hurt Locker The Musical". Therefore, I cannot provide the names of its current members.
+GT: Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.
+
+Results for question 17:
+Semantic Similarity: 0.40966
+Retrieve time: 0.00s
+Generate time: 23.67s
+
+Cumulative metrics after 17 questions:
+Average Similarity: 0.47357
+Average Retrieve time: 0.00s
+Average Generate time: 22.61s
+--------------------------------------------------------------------------------
+
+Processing question 18/27:
+Q: Human Error" is the season finale of the third season of a tv show that aired on what network?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 20.59s
+A: ABC.
+GT: Fox
+
+Results for question 18:
+Semantic Similarity: 0.43866
+Retrieve time: 0.00s
+Generate time: 20.59s
+
+Cumulative metrics after 18 questions:
+Average Similarity: 0.47164
+Average Retrieve time: 0.00s
+Average Generate time: 22.50s
+--------------------------------------------------------------------------------
+
+Batch 6 Summary:
+Processed 3/3 questions
+Total processed: 18/27
+================================================================================
+
+Processing batch 7/10
+
+Processing question 19/27:
+Q: Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 21.33s
+A: 2017.
+GT: 2017
+
+Results for question 19:
+Semantic Similarity: 0.95254
+Retrieve time: 0.00s
+Generate time: 21.33s
+
+Cumulative metrics after 19 questions:
+Average Similarity: 0.49695
+Average Retrieve time: 0.00s
+Average Generate time: 22.43s
+--------------------------------------------------------------------------------
+
+Processing question 20/27:
+Q: American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 20.97s
+A: Nevada.
+GT: Nevada
+
+Results for question 20:
+Semantic Similarity: 0.94969
+Retrieve time: 0.00s
+Generate time: 20.97s
+
+Cumulative metrics after 20 questions:
+Average Similarity: 0.51958
+Average Retrieve time: 0.00s
+Average Generate time: 22.36s
+--------------------------------------------------------------------------------
+
+Processing question 21/27:
+Q: Which state does the drug stores, of which the CEO is Warren Bryant, are located?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 24.93s
+A: California. However, that information is not present in the text provided. The text only mentions that Longs Drugs has approximately 40 drug stores throughout the state of Hawaii and Thrifty PayLess Holdings, Inc. was a pharmacy holding company with locations in the western United States.
+GT: Hawaii
+
+Results for question 21:
+Semantic Similarity: 0.25242
+Retrieve time: 0.00s
+Generate time: 24.93s
+
+Cumulative metrics after 21 questions:
+Average Similarity: 0.50686
+Average Retrieve time: 0.00s
+Average Generate time: 22.48s
+--------------------------------------------------------------------------------
+
+Batch 7 Summary:
+Processed 3/3 questions
+Total processed: 21/27
+================================================================================
+
+Processing batch 8/10
+
+Processing question 22/27:
+Q: Which  American politician did Donahue replaced
+Retrieved context in 0.00s
+Generating response...
+Generated response in 18.80s
+A: Kelli Ward.
+GT: Kelli Ward
+
+Results for question 22:
+Semantic Similarity: 0.98737
+Retrieve time: 0.00s
+Generate time: 18.80s
+
+Cumulative metrics after 22 questions:
+Average Similarity: 0.52870
+Average Retrieve time: 0.00s
+Average Generate time: 22.32s
+--------------------------------------------------------------------------------
+
+Processing question 23/27:
+Q: Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 24.18s
+A: The Wolfhounds were founded first. According to the text, they formed in Romford, UK in 1985, while Hole was not mentioned as being active until 1992 (when Patty Schemel joined).
+GT: The Wolfhounds
+
+Results for question 23:
+Semantic Similarity: 0.60845
+Retrieve time: 0.00s
+Generate time: 24.18s
+
+Cumulative metrics after 23 questions:
+Average Similarity: 0.53217
+Average Retrieve time: 0.00s
+Average Generate time: 22.40s
+--------------------------------------------------------------------------------
+
+Processing question 24/27:
+Q: How old is the female main protagonist of Catching Fire?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 29.29s
+A: There is no information provided about the age of the female main protagonist in Catching Fire. The novel and film adaptation focus on Katniss Everdeen, a 16-year-old girl who volunteers to participate in the Hunger Games. However, her exact age at the time of the events in the story is not specified. 
+GT: 16-year-old
+
+Results for question 24:
+Semantic Similarity: 0.33393
+Retrieve time: 0.00s
+Generate time: 29.29s
+
+Cumulative metrics after 24 questions:
+Average Similarity: 0.52391
+Average Retrieve time: 0.00s
+Average Generate time: 22.68s
+--------------------------------------------------------------------------------
+
+Batch 8 Summary:
+Processed 3/3 questions
+Total processed: 24/27
+================================================================================
+
+Processing batch 9/10
+
+Processing question 25/27:
+Q: Chang Ucchin was born in korea during a time that ended with the conclusion of what?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 19.46s
+A: World War II.
+GT: World War II
+
+Results for question 25:
+Semantic Similarity: 0.96054
+Retrieve time: 0.00s
+Generate time: 19.46s
+
+Cumulative metrics after 25 questions:
+Average Similarity: 0.54138
+Average Retrieve time: 0.00s
+Average Generate time: 22.56s
+--------------------------------------------------------------------------------
+
+Processing question 26/27:
+Q: Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?
+Retrieved context in 0.00s
+Generating response...
+Generated response in 36.62s
+A: Unfortunately, the text doesn't mention a specific film or director. However, I can try to help you find the answer.
+
+After some research, I found that there are several films and directors that have used the Quality Cafe as a filming location. One example is the 2003 film "Heavens Cafe" by composer John Miner, which was staged at the Insurgo Theater in Los Angeles in 2004.
+
+However, without more information or context, it's difficult to determine if this is the correct answer. If you have any additional details or clarification about the film or director you're looking for, I'd be happy to try and help further!
+GT: Todd Phillips
+
+Results for question 26:
+Semantic Similarity: -0.01338
+Retrieve time: 0.00s
+Generate time: 36.62s
+
+Cumulative metrics after 26 questions:
+Average Similarity: 0.52004
+Average Retrieve time: 0.00s
+Average Generate time: 23.10s
+--------------------------------------------------------------------------------
+
+Processing question 27/27:
+Q: New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?     
+Retrieved context in 0.00s
+Generating response...
+Generated response in 19.41s
+A: Carol Channing.
+GT: Carol Lawrence
+
+Results for question 27:
+Semantic Similarity: 0.71565
+Retrieve time: 0.00s
+Generate time: 19.41s
+
+Cumulative metrics after 27 questions:
+Average Similarity: 0.52728
+Average Retrieve time: 0.00s
+Average Generate time: 22.96s
+--------------------------------------------------------------------------------
+
+Batch 9 Summary:
+Processed 3/3 questions
+Total processed: 27/27
+================================================================================
+
+Final Results:
+Prepare time: 0.07600140571594238
+Average Semantic Similarity: 0.5272836483049171
+Average retrieve time: 0.0009367377669722946
+Average generate time: 22.959888723161484
