@@ -1,6 +1,6 @@
 # RAG vs CAG: A Cost-Optimization Case Study
 
-This repository presents a comparative analysis between Retrieval-Augmented Generation (RAG) and Cache-Augmented Generation (CAG) architectures, with a focus on API cost optimization and local deployment capabilities. This implementation is inspired by the paper [Don't Do RAG](https://github.com/hhhuang/CAG) by Chan et al.
+This repository presents a comparative analysis between Retrieval-Augmented Generation (RAG) and Cache-Augmented Generation (CAG) architectures, focusing on API cost optimization and local deployment capabilities. The paper inspires this implementation [Don't Do RAG](https://github.com/hhhuang/CAG) by Chan et al.
 
 ## Project Overview
 
@@ -33,7 +33,7 @@ This case study explores:
 pip install -r requirements.txt
 ```
 
-2. **Install Ollama** (for local deployment):
+2. **Install Ollama** (for localally running Model):
 ```bash
 # For Windows, download from https://ollama.ai/download
 # For Linux:
@@ -43,7 +43,7 @@ curl https://ollama.ai/install.sh | sh
 3. **Setup Environment**:
 ```bash
 cp .env.template .env
-# Add your API keys if using cloud services (Gemini)
+# Add your API keys
 ```
 
 4. **Pull Llama Model**:
